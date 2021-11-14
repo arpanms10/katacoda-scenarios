@@ -1,11 +1,19 @@
-# Install Chrome package
+# Interactive Unit testing
 
-Before we begin with our Unit testing for webcomponents, we need to install chorme package
+Loan application can be checked in below link
 
-`apt-get update`{{execute}}
+`https://loan-application-site.netlify.app`
 
-`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`{{execute}}
+Click on each command to execute it
 
-`dpkg -i google-chrome-stable_current_amd64.deb`{{execute}}
+To start with, clone the below repository
 
-`sudo apt-get install -f`{{execute}}
+`git clone -b unit-testing-beginner https://github.com/arpanms10/loan-application`{{execute}}
+
+Now switch directory to loan-application
+
+`cd loan-application`{{execute}}
+
+Install all dependencies
+
+`npm install`{{execute}}

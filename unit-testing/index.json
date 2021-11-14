@@ -2,7 +2,7 @@
   "title": "Webcomponent Unit testing",
   "description": "Learn Unit testing of Webcomponents",
   "difficulty": "Beginner",
-  "time": "2",
+  "time": "4",
   "details": {
     "steps": [
       {
@@ -12,15 +12,11 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {
       "text": "intro.md",
-      "code": "foreground.sh"
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"

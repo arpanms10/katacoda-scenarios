@@ -1,13 +1,7 @@
 # Interactive Unit testing scenario
 
-To start with, clone the below repository
+Now open the loan-application folder from above editor and check test folder.
 
-`git clone https://github.com/arpanms10/loan-application`{{execute}}
+Test files are already created for your convenience. Open each file and start writing test cases.
 
-Lets switch directory
-
-`cd loan-application`{{execute}}
-
-Install all dependencies
-
-`npm install`{{execute}}
+Once completed, take a screenshot of the coverage report and share with your buddy.
